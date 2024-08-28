@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Avatar",
+    "director": "James Cameron",
+    "genre": "fantastic",
+    "favorite": false
+  },
+  {
+    "title": "I Am Legend",
+    "director": "Francis Lawrence",
+    "genre": "fantastic",
+    "favorite": false
+  }
+]
